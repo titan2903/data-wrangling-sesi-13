@@ -1,0 +1,13 @@
+Bulan,Total_Penjualan,Jumlah_Pelanggan,Rata2_Kepuasan,Produk_Terbanyak,Wilayah
+Jan,12500,340,4.2,A,Jakarta
+Feb,13200,360,4.5,B,Bandung
+Mar,9800,280,3.9,A,Surabaya
+Apr,11000,310,4.1,C,Yogyakarta
+Mei,14500,400,4.6,B,Jakarta
+Jun,12200,320,4.3,A,Bandung
+Jul,13800,370,4.7,C,Surabaya
+Agt,12500,340,4.1,B,Yogyakarta
+Sep,15000,410,4.8,A,Jakarta
+Okt,9700,270,3.8,C,Bandung
+Nov,10800,300,4,A,Surabaya
+Des,14000,390,4.5,B,Yogyakarta
